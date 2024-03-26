@@ -2,7 +2,7 @@
 
 This is a React Native project using Expo.
 
-## Installation
+## Installation 
 
 Make sure you have Node.js and Expo CLI installed globally on your system. You can install Expo CLI by running the following command:
 
